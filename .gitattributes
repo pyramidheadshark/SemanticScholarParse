@@ -1,0 +1,2 @@
+*.json filter=lfs -text
+*.csv filter=lfs -text
